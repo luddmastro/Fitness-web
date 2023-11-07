@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* menu*/
+.onefitlogo{
+    width: 100px;
+}
+a{
+    text-decoration: none !important;
+}
+
+#barra{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #FFB000;
+    align-items: center;
+   
+   
+}
+nav{
+    color: black;
+    display: flex; 
+    width: 70%;
+    justify-content: space-between;
+    font-family: cursive;
+    
+}
